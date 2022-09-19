@@ -1,0 +1,14 @@
+C:\Users\July\Downloads\FormatConsole\FormatConsole\bin\Debug\netcoreapp3.1\FormatConsole.exe
+C:\Users\July\Downloads\FormatConsole\FormatConsole\bin\Debug\netcoreapp3.1\FormatConsole.deps.json
+C:\Users\July\Downloads\FormatConsole\FormatConsole\bin\Debug\netcoreapp3.1\FormatConsole.runtimeconfig.json
+C:\Users\July\Downloads\FormatConsole\FormatConsole\bin\Debug\netcoreapp3.1\FormatConsole.runtimeconfig.dev.json
+C:\Users\July\Downloads\FormatConsole\FormatConsole\bin\Debug\netcoreapp3.1\FormatConsole.dll
+C:\Users\July\Downloads\FormatConsole\FormatConsole\bin\Debug\netcoreapp3.1\FormatConsole.pdb
+C:\Users\July\Downloads\FormatConsole\FormatConsole\obj\Debug\netcoreapp3.1\FormatConsole.csproj.AssemblyReference.cache
+C:\Users\July\Downloads\FormatConsole\FormatConsole\obj\Debug\netcoreapp3.1\FormatConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\July\Downloads\FormatConsole\FormatConsole\obj\Debug\netcoreapp3.1\FormatConsole.AssemblyInfoInputs.cache
+C:\Users\July\Downloads\FormatConsole\FormatConsole\obj\Debug\netcoreapp3.1\FormatConsole.AssemblyInfo.cs
+C:\Users\July\Downloads\FormatConsole\FormatConsole\obj\Debug\netcoreapp3.1\FormatConsole.csproj.CoreCompileInputs.cache
+C:\Users\July\Downloads\FormatConsole\FormatConsole\obj\Debug\netcoreapp3.1\FormatConsole.dll
+C:\Users\July\Downloads\FormatConsole\FormatConsole\obj\Debug\netcoreapp3.1\FormatConsole.pdb
+C:\Users\July\Downloads\FormatConsole\FormatConsole\obj\Debug\netcoreapp3.1\FormatConsole.genruntimeconfig.cache
